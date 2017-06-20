@@ -37,13 +37,6 @@ param = {
     "actionType" : "9"
 }
 
-# 课程信息
-courses = []
-course = {
-    "kch" : "",
-    "cxkxh" : "",
-    "done" : False
-}
 
 # 教务处ip
 jwc_ip = "202.115.47.141"
@@ -97,11 +90,8 @@ def xk(param, lesson):
         r = s.get("http://" + jwc_ip + "/xkAction.do?actionType=-1", timeout = time_delay)
         r = s.get("http://" + jwc_ip + "/xkAction.do?actionType=5&pageNumber=-1&cx=ori", timeout = time_delay)
         r = s.post("http://" + jwc_ip + "/xkAction.do", data = lesson, timeout = time_delay)
-        # print(lesson)
-        # print(r.text)
         # 选课
         r = s.post("http://" + jwc_ip + "/xkAction.do", data = param, timeout = time_delay)
-        # print(param)
         info = ''
 
         # 中途被顶掉登录了
@@ -170,17 +160,14 @@ if __name__ == "__main__":
     lessons = lessons["lessons"]
 
     firsttime = True # 第一次的话，就选快点，后面有个间隔就好
-    num = 0
-    print(len(lessons))
-    while num < len(lessons):
+    while len(lessons)>0:
         for lesson in lessons:
             if xk(update(lesson), lesson) == 1:
-                num = num + 1
-                lessons.remove(lesson)
+                lessons.remove(lesson) # 抢到了就从待抢队列中删除
             if not firsttime:
                 time.sleep(sleeptime)
         firsttime = False
-        print('一次循环')
+        print('----------------一次循环--------------')
 
     logging.info("已完成所有工作...\n好好学习，天天向上！！！")
 

@@ -143,3 +143,38 @@ Tue, 20 Jun 2017 13:52:20 connectionpool.py[line:395] DEBUG http://202.115.47.14
 Tue, 20 Jun 2017 13:52:20 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "POST /xkAction.do HTTP/1.1" 200 None
 Tue, 20 Jun 2017 13:52:20 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "POST /xkAction.do HTTP/1.1" 200 None
 Tue, 20 Jun 2017 13:52:20 lesson.py[line:118] DEBUG 课程 311034030_02 没有课余量...
+Tue, 20 Jun 2017 13:52:25 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /xkAction.do?actionType=-1 HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:25 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /xkAction.do?actionType=5&pageNumber=-1&cx=ori HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:26 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "POST /xkAction.do HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:26 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "POST /xkAction.do HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:26 lesson.py[line:118] DEBUG 课程 311085020_02 没有课余量...
+Tue, 20 Jun 2017 13:52:32 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /xkAction.do?actionType=-1 HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:32 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /xkAction.do?actionType=5&pageNumber=-1&cx=ori HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:32 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "POST /xkAction.do HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:32 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "POST /xkAction.do HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:37 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /xkAction.do?actionType=-1 HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:37 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /xkAction.do?actionType=5&pageNumber=-1&cx=ori HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:37 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "POST /xkAction.do HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:37 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "POST /xkAction.do HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:37 lesson.py[line:118] DEBUG 课程 311034030_02 没有课余量...
+Tue, 20 Jun 2017 13:52:42 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /xkAction.do?actionType=-1 HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:42 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /xkAction.do?actionType=5&pageNumber=-1&cx=ori HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:42 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "POST /xkAction.do HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:42 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "POST /xkAction.do HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:42 lesson.py[line:118] DEBUG 课程 311085020_02 没有课余量...
+Tue, 20 Jun 2017 13:52:48 lesson.py[line:143] INFO 网络有问题，正在重连...
+Tue, 20 Jun 2017 13:52:48 connectionpool.py[line:207] DEBUG Starting new HTTP connection (4): 202.115.47.141
+Tue, 20 Jun 2017 13:52:49 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /loginAction.do HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:49 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /loginAction.do HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:49 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "POST /loginAction.do HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:49 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /xkAction.do?actionType=6 HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:54 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /xkAction.do?actionType=-1 HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:54 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /xkAction.do?actionType=5&pageNumber=-1&cx=ori HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:54 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "POST /xkAction.do HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:54 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "POST /xkAction.do HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:54 lesson.py[line:118] DEBUG 课程 311034030_02 没有课余量...
+Tue, 20 Jun 2017 13:52:59 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /xkAction.do?actionType=-1 HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:59 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /xkAction.do?actionType=5&pageNumber=-1&cx=ori HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:59 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "POST /xkAction.do HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:59 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "POST /xkAction.do HTTP/1.1" 200 None
+Tue, 20 Jun 2017 13:52:59 lesson.py[line:118] DEBUG 课程 311085020_02 没有课余量...

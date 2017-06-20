@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="977368f5-410f-488f-9b0e-98e9c9ff5562" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson.log" afterPath="$PROJECT_DIR$/lesson.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson.py" afterPath="$PROJECT_DIR$/lesson.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lessons.json" afterPath="$PROJECT_DIR$/lessons.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/student.json" afterPath="$PROJECT_DIR$/student.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,7 +21,7 @@
       <file leaf-file-name="lesson.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
+            <state relative-caret-position="383">
               <caret line="179" column="25" lean-forward="true" selection-start-line="179" selection-start-column="25" selection-end-line="179" selection-end-column="25" />
               <folding>
                 <element signature="e#43#58#0" expanded="true" />
@@ -51,10 +48,10 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1497937516000" expanded="true" signature="0:650" ph="{...}" />
-                <marker date="1497937516000" expanded="true" signature="16:648" ph="[...]" />
-                <marker date="1497937516000" expanded="true" signature="17:31" ph="{&quot;kch&quot;: &quot;1111&quot;...}" />
-                <marker date="1497937516000" expanded="true" signature="272:647" ph="{&quot;kch&quot;: &quot;2222&quot;...}" />
+                <marker date="1497937810000" expanded="true" signature="0:650" ph="{...}" />
+                <marker date="1497937810000" expanded="true" signature="16:648" ph="[...]" />
+                <marker date="1497937810000" expanded="true" signature="17:31" ph="{&quot;kch&quot;: &quot;1111&quot;...}" />
+                <marker date="1497937810000" expanded="true" signature="272:647" ph="{&quot;kch&quot;: &quot;2222&quot;...}" />
               </folding>
             </state>
           </provider>
@@ -363,7 +360,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3054449" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3054449" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -412,10 +409,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1497937516000" expanded="true" signature="0:650" ph="{...}" />
-            <marker date="1497937516000" expanded="true" signature="16:648" ph="[...]" />
-            <marker date="1497937516000" expanded="true" signature="17:31" ph="{&quot;kch&quot;: &quot;1111&quot;...}" />
-            <marker date="1497937516000" expanded="true" signature="272:647" ph="{&quot;kch&quot;: &quot;2222&quot;...}" />
+            <marker date="1497937810000" expanded="true" signature="0:650" ph="{...}" />
+            <marker date="1497937810000" expanded="true" signature="16:648" ph="[...]" />
+            <marker date="1497937810000" expanded="true" signature="17:31" ph="{&quot;kch&quot;: &quot;1111&quot;...}" />
+            <marker date="1497937810000" expanded="true" signature="272:647" ph="{&quot;kch&quot;: &quot;2222&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -430,7 +427,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
+        <state relative-caret-position="383">
           <caret line="179" column="25" lean-forward="true" selection-start-line="179" selection-start-column="25" selection-end-line="179" selection-end-column="25" />
           <folding>
             <element signature="e#43#58#0" expanded="true" />
