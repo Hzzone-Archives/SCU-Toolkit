@@ -1,19 +1,12 @@
-Sun, 02 Jul 2017 17:50:42 connectionpool.py[line:207] DEBUG Starting new HTTP connection (1): 202.115.47.141
-Sun, 02 Jul 2017 17:50:42 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /loginAction.do HTTP/1.1" 200 None
-Sun, 02 Jul 2017 17:50:42 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /loginAction.do HTTP/1.1" 200 None
-Sun, 02 Jul 2017 17:50:42 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "POST /loginAction.do HTTP/1.1" 200 None
-Sun, 02 Jul 2017 17:50:42 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /xkAction.do?actionType=6 HTTP/1.1" 200 None
-Sun, 02 Jul 2017 17:50:42 grade.py[line:81] INFO 登陆成功，开始工作...
-Sun, 02 Jul 2017 17:50:42 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
-Sun, 02 Jul 2017 17:50:43 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
-Sun, 02 Jul 2017 17:50:43 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
-Sun, 02 Jul 2017 17:50:43 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
-Sun, 02 Jul 2017 17:50:43 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
-Sun, 02 Jul 2017 17:50:43 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
-Sun, 02 Jul 2017 17:50:44 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
-Sun, 02 Jul 2017 17:50:44 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
-Sun, 02 Jul 2017 17:50:45 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
-Sun, 02 Jul 2017 17:50:45 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
-Sun, 02 Jul 2017 17:50:46 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
-Sun, 02 Jul 2017 17:50:46 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
-Sun, 02 Jul 2017 17:50:46 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
+Mon, 03 Jul 2017 01:01:53 connectionpool.py[line:207] DEBUG Starting new HTTP connection (1): 202.115.47.141
+Mon, 03 Jul 2017 01:01:53 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /loginAction.do HTTP/1.1" 200 None
+Mon, 03 Jul 2017 01:01:54 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /loginAction.do HTTP/1.1" 200 None
+Mon, 03 Jul 2017 01:01:54 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "POST /loginAction.do HTTP/1.1" 200 None
+Mon, 03 Jul 2017 01:01:54 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /xkAction.do?actionType=6 HTTP/1.1" 200 None
+Mon, 03 Jul 2017 01:01:54 grade.py[line:82] INFO 登陆成功，开始工作...
+Mon, 03 Jul 2017 01:01:54 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
+Mon, 03 Jul 2017 01:01:56 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
+Mon, 03 Jul 2017 01:01:57 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
+Mon, 03 Jul 2017 01:01:57 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
+Mon, 03 Jul 2017 01:01:57 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None
+Mon, 03 Jul 2017 01:01:58 connectionpool.py[line:395] DEBUG http://202.115.47.141:80 "GET /gradeLnAllAction.do?type=ln&oper=fainfo&fajhh=2932 HTTP/1.1" 200 None

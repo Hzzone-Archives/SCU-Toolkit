@@ -101,8 +101,8 @@ def grade():
             course['学分'] = one_course[4].string.strip()
             course['课程属性'] = one_course[5].string.strip()
             course['成绩'] = one_course[6].p.string.strip()
-            print(str(course))
             courses.append(course)
+        print("running")
         print('-------------------')
         info = ''
 
@@ -137,7 +137,6 @@ if __name__ == "__main__":
         f = open("student.json", encoding='utf-8')
         global data
         data = json.load(f)
-        print(u'学号: '+data['zjh']+'  ' + u'密码: ' + data['mm'])
         if login(True) == 1:
             break
 
